@@ -11,7 +11,9 @@ I am a Full Stack Developer driven by the challenge of making complex systems si
 - ⚡ Fun fact: **My superpower is finding the single missing semicolon that caused 3 hours of pain.**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvchoudhary38) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhruv_38_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvchoudhary38@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvchoudhary38)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhruv_38_)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvchoudhary38@gmail.com) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -37,6 +39,3 @@ I am a Full Stack Developer driven by the challenge of making complex systems si
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=dhruv-38&icon=0&color=0)](https://visitcount.itsvg.in)
